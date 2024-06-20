@@ -36,6 +36,9 @@ Our findings are detailed in the Jupyter Notebooks, with plots illustrating each
 
 ## Setup and Reproduction Guide
 Follow these instructions to set up your environment and reproduce our results:
+## (Recommended Procees)the two ‘.ipynb’ can be executed by uploading them to Google colab.
+
+=>Alternatively
 
 ### Prerequisites
 - Python 3.x
